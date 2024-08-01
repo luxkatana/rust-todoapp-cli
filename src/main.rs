@@ -1,7 +1,7 @@
+extern crate clap;
 mod todoapi;
 mod cli;
 use std::process::exit;
-
 use clap::Parser;
 use cli::{Action, Cli};
 use todoapi::*;

@@ -61,9 +61,3 @@ As mentioned above, go into the target/release folder. There you'll find an exec
 As many rustaceans mentioned has rust a difficult learning curve, so I read the documentation (the awesome rust book) twice to rehearse the things in rust.
 
 And I wanted to learn how to create a CLI in rust :p
-
-
-
-## Feature(s) that I may implement
-
-- [ ] Tab-completion for actions
